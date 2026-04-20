@@ -16,7 +16,7 @@ Tutorial filtrado por fechas React + Node.js + TypeScript.
 ## Tecnologías Utilizadas
 - **Backend:** Node.js + TypeScript + Express.js (Patrón MVC)
 - **Frontend:** React + TypeScript
-- **Deploy:** Railway (Backend) + Vercel (Frontend)
+- **Deploy:** Render (Backend) + Netlify (Frontend)
 
 ##  Funcionalidad CORE - Filtrado de Comisiones por Fechas
 
@@ -184,8 +184,7 @@ Código mantenible y extensible
 ##  Enlaces del Proyecto
 
 - **🔗 Repositorio GitHub:** https://github.com/RodrigoAndrade950804/MINICORE-Sistema-Comisiones.git
-- **🎥 Video Explicativo:** https://youtu.be/rXaIAjPqxwg
-- **🎥 Video Explicativo 2:** https://youtu.be/73rysrzp3_o
+- **🎥 Video Explicativo:** https://youtu.be/3s8FE9rVaUE
 - **🚀 Demo Backend:** https://minicore-sistema-comisiones.onrender.com/api/health
 - **💻 Demo Frontend:** https://app.netlify.com/projects/comfy-daifuku-57e533/deploys/69e571cd82b3170735615531
 - **💻-📲Deploy:** https://69e571cd82b3170735615531--comfy-daifuku-57e533.netlify.app/

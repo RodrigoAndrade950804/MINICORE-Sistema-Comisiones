@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
 
                 <div className="footer-bottom">
                     <div className="footer-info">
-                        <p>© {currentYear} MINICORE - Carlos Ochoa | UDLA</p>
+                        <p>© {currentYear} MINICORE - Rodrigo Andrade | UDLA</p>
                     </div>
                 </div>
             </div>

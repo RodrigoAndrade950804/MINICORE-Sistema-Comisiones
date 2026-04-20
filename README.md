@@ -183,11 +183,12 @@ Código mantenible y extensible
 
 ##  Enlaces del Proyecto
 
-- **🔗 Repositorio GitHub:** https://github.com/Carlooosfif/MINICORE-Sistema-Comisiones
+- **🔗 Repositorio GitHub:** https://github.com/RodrigoAndrade950804/MINICORE-Sistema-Comisiones.git
 - **🎥 Video Explicativo:** https://youtu.be/rXaIAjPqxwg
 - **🎥 Video Explicativo 2:** https://youtu.be/73rysrzp3_o
-- **🚀 Demo Backend:** https://minicore-sistema-comisiones-production.up.railway.app
-- **💻 Demo Frontend:** https://minicore-sistema-comisiones.vercel.app/
+- **🚀 Demo Backend:** https://minicore-sistema-comisiones.onrender.com/api/health
+- **💻 Demo Frontend:** https://app.netlify.com/projects/comfy-daifuku-57e533/deploys/69e571cd82b3170735615531
+- **💻-📲Deploy:** https://69e571cd82b3170735615531--comfy-daifuku-57e533.netlify.app/
 
 ##  Documentación MVC + Stack Tecnológico
 
@@ -200,10 +201,10 @@ Código mantenible y extensible
 
 ##  Autor
 
-**Carlos Ochoa**  
- **Contacto:** carlos.ochoa@udla.edu.ec  
+**Rodrigo Andrade**  
+ **Contacto:** rodrigo.andrade@udla.edu.ec  
  **Universidad:** UDLA  
- **Fecha:** Junio 2025  
+ **Fecha:** Abril 2025  
  **Proyecto:** Sistema de Comisiones con Patrón MVC  
 
 ---
